@@ -4,6 +4,7 @@ Hi, my name is Alejandro Muñoz. Welcome to my public portfolio, where I share m
 
 I’m a physics engineer and a data science student at ITAM. I have a deep interest in science and the understanding of the world, and also shearing that knowledge. More about me and my interests [here](https://github.com/Monfiz/Alex_Portfolio/blob/main/About_alex.md).  
 
+Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_español.pdf) and in [English]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_English.pdf) where you can see mostly my academic career and associative life. 
 
 ## Project 1: Hotel Cancelations prediction 
 This project is based on the code made for the final project of the master’s course of Machine Learning at ITAM, in collaboration with my classmates [marcoyel21]( https://github.com/marcoyel21)  and [joelitam2021]( https://github.com/joelitam2021). 
