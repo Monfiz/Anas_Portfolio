@@ -24,4 +24,4 @@ On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki
 <p align="center">
 <img src="https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png" width="300" height="300" />
 </p>
-![](https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png)
+![ ](https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png)
