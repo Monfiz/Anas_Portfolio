@@ -26,3 +26,6 @@ On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki
 
 
 ![](https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png)
+
+
+hola prueba 11111111111111111111111111111111111111111111111111111111111111111111111111111
