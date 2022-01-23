@@ -6,6 +6,7 @@ I’m a physics engineer and a data science student at ITAM. I have a deep inter
 
 Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_español.pdf) and in [English]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_English.pdf) where you can see mostly my academic career and associative life. 
 
+* 📫 How to reach me: alex.monfis@gmail.com
 
 On this portfolio currently you can find 3 projects:
 ## [Project 1 - Hotel Cancelations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
