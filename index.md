@@ -13,6 +13,8 @@ On this portfolio currently you can find 3 projects:
 
 On this project I make use of **machine learning models** such as **linear regression** with **lasso** and **random forest** to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
 
+![](https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png)
+
 ## [Project 2 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
 
 This project is subdivided into two smaller ones, the first is an **unsupervised machine learning algorithm** that makes **clusters** of movies to make recommendations that are similar to an specific movie. The second one is a predictor of how much revenue a movie will make. For this second problem I use several models like **nearest neighbor**, **decision tree**, **random forest**, **linear regression** and more. The code is built in Python.
@@ -24,4 +26,5 @@ On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki
 <p align="center">
 <img src="https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png" width="300" height="300" />
 </p>
-![ ](https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png)
+
+![](https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png)
