@@ -1,7 +1,7 @@
 Hi there, I’m Alex Muñoz. I’m a physics engineer and a data science student from Mexico City. 
 
 <p align="center">
-<img src="./images/fis.png" width="500" height="300" />
+<img src="./images/fis.png" width="450" height="300" />
 </p>
 
 I’m in love with science and I really enjoy teaching and shearing the wonder of knowledge. I have given conferences on two occasions in the public library of Vasconcelos at Mexico City, you can find the videos of those conferences here (everything is in spanish): 
