@@ -13,7 +13,7 @@ On this portfolio currently you can find 3 projects:
 
 On this project I make use of **machine learning models** such as **linear regression** with **lasso** and **random forest** to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
 
-![](images/lasso.png)
+![](./images/lasso.png)
 
 ## [Project 2 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
 
@@ -24,7 +24,7 @@ This project is subdivided into two smaller ones, the first is an **unsupervised
 On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki/Multifractal_system#:~:text=A%20multifractal%20system%20is%20a,systems%20are%20common%20in%20nature.) to make an analysis of the complexity of the coding and [non-coding DNA]( https://en.wikipedia.org/wiki/Non-coding_DNA#:~:text=Non-coding%20DNA%20sequences%20are,do%20not%20encode%20protein%20sequences.&text=Other%20functions%20of%20non-coding,DNA%20replication%2C%20centromeres%20and%20telomeres.). But first, I justify the use of this theory by showing that the DNA presents a multifractal structure. The code is built in Python. Here I show my maths and coding skills applied to solve a specific problem, in this case a bioinformatics one.   
 
 <p align="center">
-<img src="images/cromosomay.png" width="300" height="300" />
+<img src="./images/cromosomay.png" width="300" height="300" />
 </p>
 
 34444444444
