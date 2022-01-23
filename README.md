@@ -14,7 +14,7 @@ On this portfolio currently you can find 3 projects:
 On this project I make use of **machine learning models** such as **linear regression** with **lasso** and **random forest** to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
 
 <p align="center">
-<img src="./images/lasso.png" width="500" height="300" />
+<img src="./images/lasso.png" width="600" height="350" />
 </p>
 
 ## [Project 2 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
