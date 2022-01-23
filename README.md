@@ -27,7 +27,7 @@ On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki
 <img src="images/cromosomay.png" width="300" height="300" />
 </p>
 
-3
+34444444444
 #
 #
 
