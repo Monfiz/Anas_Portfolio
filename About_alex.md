@@ -10,7 +10,7 @@ I’m in love with science and I really enjoy teaching and shearing the wonder o
 * [Chaos: the hurricane flight of butterflies]( https://www.facebook.com/bibliotecavasconcelos.buenavista/videos/373696481156954)
 
 <p align="center">
-<img src="./images/conf.png" width="500" height="300" />
+<img src="./images/conf.jpg" width="500" height="300" />
 </p>
 
 I have also collaborated in Radio Ibero 90.9FM in the program “Random” also making popularization of science for more than a year. Currently I’m the creative director and host of the podcast “Datos + Algoritmos + Sociedad” at ITAM were I run interviews with people that work on projects involved in informatics and data that have a good impact in the society. You can find the podcast episodes here:}
@@ -28,5 +28,5 @@ Finally, there is a more artistic side of me, I’m also keen on music. I play t
 * [Alex Music]( https://www.youtube.com/watch?v=u0Sk0Wr0BPg) 
 
 <p align="center">
-<img src="./images/bat.png" width="500" height="300" />
+<img src="./images/bat.jpg" width="500" height="300" />
 </p>
