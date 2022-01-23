@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Alex Portfolio
 
-You can use the [editor on GitHub](https://github.com/Monfiz/Alex_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Alejandro Muñoz. Welcome to my public portfolio, where I share my data science skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m a physics engineer and a data science student at ITAM. I have a deep interest in science and the understanding of the world, and also shearing that knowledge. More about me and my interests [here](https://github.com/Monfiz/Alex_Portfolio/blob/main/About_alex.md).  
 
-### Markdown
+Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_español.pdf) and in [English]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_English.pdf) where you can see mostly my academic career and associative life. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 📫 How to reach me: alex.monfis@gmail.com
 
-```markdown
-Syntax highlighted code block
+On this portfolio currently you can find 3 projects:
+## [Project 1 - Hotel Cancelations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
 
-# Header 1
-## Header 2
-### Header 3
+On this project I make use of machine learning models such as linear regression with lasso and random forest to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
 
-- Bulleted
-- List
+## [Project 2 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
 
-1. Numbered
-2. List
+This project is subdivided into two smaller ones, the first is an unsupervised machine learning algorithm that makes clusters of movies to make recommendations that are similar to an specific movie. The second one is a predictor of how much revenue a movie will make. For this second problem I use several models like nearest neighbor, decision tree, random forest, linear regression and more. The code is built in Python.
 
-**Bold** and _Italic_ and `Code` text
+## [Project 3 – Analysis of coding and non-coding DNA:](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_3)
 
-[Link](url) and ![Image](src)
-```
+On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki/Multifractal_system#:~:text=A%20multifractal%20system%20is%20a,systems%20are%20common%20in%20nature.) to make an analysis of the complexity of the coding and [non-coding DNA]( https://en.wikipedia.org/wiki/Non-coding_DNA#:~:text=Non-coding%20DNA%20sequences%20are,do%20not%20encode%20protein%20sequences.&text=Other%20functions%20of%20non-coding,DNA%20replication%2C%20centromeres%20and%20telomeres.). But first, I justify the use of this theory by showing that the DNA presents a multifractal structure. The code is built in Python. Here I show my maths and coding skills applied to solve a specific problem, in this case a bioinformatics one.   
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Monfiz/Alex_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
