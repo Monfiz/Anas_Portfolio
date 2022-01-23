@@ -22,6 +22,6 @@ This project is subdivided into two smaller ones, the first is an **unsupervised
 On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki/Multifractal_system#:~:text=A%20multifractal%20system%20is%20a,systems%20are%20common%20in%20nature.) to make an analysis of the complexity of the coding and [non-coding DNA]( https://en.wikipedia.org/wiki/Non-coding_DNA#:~:text=Non-coding%20DNA%20sequences%20are,do%20not%20encode%20protein%20sequences.&text=Other%20functions%20of%20non-coding,DNA%20replication%2C%20centromeres%20and%20telomeres.). But first, I justify the use of this theory by showing that the DNA presents a multifractal structure. The code is built in Python. Here I show my maths and coding skills applied to solve a specific problem, in this case a bioinformatics one.   
 
 <p align="center">
-<img src="https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png" width="400" height="400" />
+<img src="https://github.com/Monfiz/Alex_Portfolio/blob/main/images/cromosomay.png" width="300" height="300" />
 </p>
 
