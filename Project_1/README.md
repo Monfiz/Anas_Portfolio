@@ -12,4 +12,6 @@ To plan rates and sales or promotional activities, hotels make advance estimates
 
 ## Files:
 
-* [report.pdf](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Hotel_cancelations_report_spanish.pdf) On this file you can find the main project, with a brief part of the EDA, feature engineering, lasso regression with cross validation and finally a random forest that gave the best results. This is a pdf rendered if you would like to see the full code you can go to the file [report.Rmd](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/report.Rmd).
+* [report.pdf](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Hotel_cancelations_report_spanish.pdf): on this file you can find the main project, with a brief part of the EDA, feature engineering, lasso regression with cross validation and finally a random forest that gave the best results. This is a pdf rendered if you would like to see the full code you can go to the file [report.Rmd](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/report.Rmd).
+
+* [EDA_hotel_cancelations.Rmd](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/EDA_hotel_cancelations.Rmd): here you can find a more profound exploration of the Data, mainly focused on distributions for canceled reservations and non-canceled ones and a time series analysis of the seasonality. 
