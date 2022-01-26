@@ -14,5 +14,5 @@ During this project I wrote bunch of algorithms to make tasks from read the DNA 
 * 
 
 <p align="center">
-<img src="Alex_portfolio/images/cromosomay.png" width="370" height="370" />
+<img src="../images/cromosomay.png" width="370" height="370" />
 </p>
