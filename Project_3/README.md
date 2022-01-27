@@ -10,8 +10,9 @@ During this project I wrote bunch of algorithms to make tasks from read the DNA 
 
 ## Files 
 
-*
-* 
+* [DNA_files](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_3/DNA_data): folder with genomes of differnt organisms on .txt files. 
+* [ASE III primera parte.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_3/ASE%20III%20primera%20parte.ipynb) Algorithms that read the DNA data, clean and prepare the DNA,  show its structure with plots.
+* [ASE III segunda parte.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_3/ASE%20III%20segunda%20parte.ipynb) Algorithms that make the subsequences, count the subsequences and plotting the complexity of the sequences.
 
 <p align="center">
 <img src="../images/cromosomay.png" width="370" height="370" />
