@@ -9,7 +9,7 @@ Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/b
 * 📫 How to reach me: alex.monfis@gmail.com
 
 On this portfolio currently you can find 3 projects:
-## [Project 1 - Hotel Cancelations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
+## [Project 1 - Hotel Cancellations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
 
 On this project I make use of **machine learning models** such as **linear regression** with **lasso** and **random forest** to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
 
