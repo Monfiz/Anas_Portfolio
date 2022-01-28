@@ -19,7 +19,6 @@ This project is subdivided into two smaller ones, the first is an **unsupervised
 </p>
 
 
-## 
 
 ## [Project 2 - Hotel Cancellations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
 
