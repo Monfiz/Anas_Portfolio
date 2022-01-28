@@ -17,11 +17,14 @@ On this first problem we pretend to be a consulting company that seeks to develo
 
 ## Movie Revenue Predictor - Regression 
 
+### Problem description:
+
 On this second one we pretend to be also a consulting company facing the request of a client that wants to know how to make a profitable movie. 
 
 * Objective: make a predictions of how much revenue a movie will have based on its characteristics. 
 
-* Strategy: To solve the problem, we seek to know which are the most successful movies and make an analysis of the qualities that a good movie has. We want to do analysis based on directors, budget, genre, duration and language, as some examples of variables of interest, to predict final profits.
+* Strategy: To solve the problem, we seek to know which are the most successful movies and make an analysis of the qualities that a good movie has. We want to do analysis and models based on directors, budget, genre, duration and language, as some examples of variables of interest, to predict final profits.
+
 
 ## Files:
 
