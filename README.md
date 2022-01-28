@@ -9,20 +9,24 @@ Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/b
 * 📫 How to reach me: alex.monfis@gmail.com
 
 On this portfolio currently you can find 3 projects:
-## [Project 1 - Hotel Cancellations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
 
-On this project I make use of **machine learning models** such as **linear regression** with **lasso** and **random forest** to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
-
-<p align="center">
-<img src="./images/lasso.png" width="600" height="350" />
-</p>
-
-## [Project 2 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
+## [Project 1 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
 
 This project is subdivided into two smaller ones, the first is an **unsupervised machine learning algorithm** that makes **clusters** of movies to make recommendations that are similar to an specific movie. The second one is a predictor of how much revenue a movie will make. For this second problem I use several models like **nearest neighbor**, **decision tree**, **random forest**, **linear regression** and more. The code is built in Python.
 
 <p align="center">
 <img src="./images/variables.png" width="500" height="300" />
+</p>
+
+
+## 
+
+## [Project 2 - Hotel Cancellations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
+
+On this project I make use of **machine learning models** such as **linear regression** with **lasso** and **random forest** to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
+
+<p align="center">
+<img src="./images/lasso.png" width="600" height="350" />
 </p>
 
 ## [Project 3 – Analysis of coding and non-coding DNA:](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_3)
