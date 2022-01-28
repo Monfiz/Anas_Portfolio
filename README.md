@@ -2,7 +2,7 @@
 
 Hi, my name is Alejandro Muñoz. Welcome to my public portfolio, where I share my data science skills.
 
-I’m a physics engineer and a data science student at ITAM. I have a deep interest in science and the understanding of the world, and also shearing that knowledge. More about me and my interests [here](https://github.com/Monfiz/Alex_Portfolio/blob/main/About_alex.md).  
+I’m a physics engineer and a data science student at [ITAM](https://en.wikipedia.org/wiki/Instituto_Tecnológico_Autónomo_de_México). I have a deep interest in science and the understanding of the world, and also shearing that knowledge. More about me and my interests [here](https://github.com/Monfiz/Alex_Portfolio/blob/main/About_alex.md).  
 
 Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_español.pdf) and in [English]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_English.pdf) where you can see mostly my academic career and associative life. 
 
