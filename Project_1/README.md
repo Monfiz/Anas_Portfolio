@@ -28,7 +28,11 @@ On this second one we pretend to be also a consulting company facing the request
 
 ## Files:
 
+* [recomendador_de_peliculas.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/recomendador_de_peliculas.ipynb) : This is the main file of the movie recommender  algorithms. This is the most extensive file with more content. 
+* [Modelos_Tuning.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Modelos_Tuning.ipynb): Is the main file of the models for the problem of revenue prediction. Here you can find iplementations of models like K-nearest neightbors, Regression with Lasso, Descicion tree, Random forest (best performace),  this algorithms perfomed well, but we also tried some that didnt gave good results like multilayer perceptron and support vector regression.  
+* [Importancia.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Importancia.ipynb): After finding the best model we wanted to know witch variables were the most important to the model. So we could give a recommendation to our "client" on witch aspects to focus. This importance analysis is shown on this notebook. 
 
+On the [EDA](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1/EDA) folder you can find the files used to explore the data sets. 
 
 ## Libraries:
 
