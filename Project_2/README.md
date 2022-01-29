@@ -36,4 +36,4 @@ To plan rates and sales or promotional activities, hotels make advance estimates
 * [One hot encoding](https://www.educative.io/blog/one-hot-encoding)
 * [Ralas Matrix]( http://amunategui.github.io/sparse-matrix-glmnet/)
 * [Matrix](https://cran.rproject.org/web/packages/Matrix/index.html)
-* [XGBoost Documentation](
+* [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
