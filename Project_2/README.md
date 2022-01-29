@@ -18,6 +18,22 @@ To plan rates and sales or promotional activities, hotels make advance estimates
 
 * [data]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1/data): on this folder you can find both training and testing sets which come from the cite [Kaggle](https://www.kaggle.com/c/cancelaciones-en-hoteles/data) based on this article [Hotel booking demand data sets](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
 
-## Libraries
+## Libraries:
 
-## References
+* Tidyverse
+* Patchwork
+* Ggplot2
+* DataExplorer
+* Dplyr
+* Matrix
+* Stringr
+
+## References:
+
+* [Kaggle](https://www.kaggle.com/c/cancelaciones-en-hoteles/data)
+* [Hotel](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
+* [Series de tiempo](https://es.wikipedia.org/wiki/Serie_temporal)
+* [One hot encoding](https://www.educative.io/blog/one-hot-encoding)
+* [Ralas Matrix]( http://amunategui.github.io/sparse-matrix-glmnet/)
+* [Matrix](https://cran.rproject.org/web/packages/Matrix/index.html)
+* [XGBoost Documentation](
