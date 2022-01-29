@@ -29,15 +29,31 @@ On this second one we pretend to be also a consulting company facing the request
 ## Files:
 
 * [recomendador_de_peliculas.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/recomendador_de_peliculas.ipynb) : This is the main file of the movie recommender  algorithms. This is the most extensive file with more content. 
-* [Modelos_Tuning.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Modelos_Tuning.ipynb): Is the main file of the models for the problem of revenue prediction. Here you can find iplementations of models like K-nearest neightbors, Regression with Lasso, Descicion tree, Random forest (best performace),  this algorithms perfomed well, but we also tried some that didnt gave good results like multilayer perceptron and support vector regression.  
+* [Modelos_Tuning.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Modelos_Tuning.ipynb): Is the main file of the models for the problem of revenue prediction. Here you can find iplementations of models like K-nearest neighbors, Regression with Lasso, Decision tree, Random forest (best performace),  this algorithms perfomed well, but we also tried some that didn't gave good results like multilayer perceptron and support vector regression.  
 * [Importancia.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Importancia.ipynb): After finding the best model we wanted to know witch variables were the most important to the model. So we could give a recommendation to our "client" on witch aspects to focus. This importance analysis is shown on this notebook. 
-
 * [Limpieza_Datos.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/Limpieza_Datos.ipynb): Here you can find the data preparation needed to for the revenue predictor problem. 
 
-On the [EDA](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1/EDA) folder you can find the files used to explore the data sets. 
+On the [EDA](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1/EDA) folder you can find the files used to explore the different data sets. 
+
+* [EDA_IMDb_movies.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/EDA/EDA_IMDb_movies.ipynb): extensive exploration of the IMDb movies data set.
+* [EDA_IMDb_ratings.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/EDA/EDA_IMDb_ratings.ipynb): breef exploration of the IMDb ratings data set. 
+* [EDA_Names_title_principals.ipynb](https://github.com/Monfiz/Alex_Portfolio/blob/main/Project_1/EDA/EDA_Names_title_principals.ipynb): breef exploration of the IMDb names data set.
 
 ## Libraries:
 
-
+* Pandas
+* Numpy 
+* Matplotlib
+* Datetime
+* Sklearn 
+* Json
+* Shutil
+* Seaborn
 
 ## References:
+
+* [SkLearn Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+* [SkLearn General](https://scikit-learn.org/stable/supervised_learning.html)
+* [Dataset IMDb Movies](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
+* [Fuzzy-cmeans Clustering](http://www.irdindia.in/journal_ijacect/pdf/vol4_iss4/8.pdf)
+* [Surprise Python](http://surpriselib.com/) 
