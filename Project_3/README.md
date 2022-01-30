@@ -18,3 +18,12 @@ During this project I wrote bunch of algorithms to make tasks from read the DNA 
 <p align="center">
 <img src="../images/cromosomay.png" width="370" height="370" />
 </p>
+
+## Libraries:
+
+* Random
+* Matplotlib
+* Math
+* Numpy
+* Pandas
+* Time
