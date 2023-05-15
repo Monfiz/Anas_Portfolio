@@ -4,7 +4,7 @@ Hi, my name is Alejandro Muñoz. Welcome to my public portfolio, where I share m
 
 I’m a physics engineer and a data science student at [ITAM](https://en.wikipedia.org/wiki/Instituto_Tecnológico_Autónomo_de_México). I have a deep interest in science and the understanding of the world, and also shearing that knowledge. More about me and my interests [here](https://github.com/Monfiz/Alex_Portfolio/blob/main/About_alex.md).  
 
-Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_español.pdf) and in [English]( https://github.com/Monfiz/Alex_Portfolio/blob/main/CV_2022_English.pdf) where you can see mostly my academic career and associative life. 
+Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/blob/main/Ana_Mu%C3%B1oz_CV.pdf) and in [English](https://github.com/Monfiz/Alex_Portfolio/blob/main/Ana_Munoz_CV.pdf) where you can see mostly my academic career and associative life. 
 
 * 📫 How to reach me: alex.monfis@gmail.com
 
@@ -25,11 +25,12 @@ various metrics. Additionally, our results demonstrate that transfer learning to
 crops cannot be achieved with our approach.
 
 
-
-
 This work was developed under the supervision of Prof. Dr. Magda Gregorov´a in
 collaboration with the green spin company.
 
+<p align="center">
+<img src="./images/fields.png" width="500" height="300" />
+</p>
 
 ## [Project 2 – Music Data Analysis:](https://github.com/Monfiz/Music_Data_Analysis )
 We were curious about
@@ -44,7 +45,9 @@ Our goal was to join these two datasets into one and to incorporate the informat
 of the Spotify variables into the top 500 songs. With this new information, we made
 an analysis to compare if there were any differences between an average song in
 Spotify in comparison to the top 500.
-
+<p align="center">
+<img src="./images/pca.png" width="500" height="300" />
+</p>
 
 
 ## [Project 3 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
