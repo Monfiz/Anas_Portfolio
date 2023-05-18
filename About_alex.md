@@ -1,4 +1,4 @@
-Hi there, I’m Alex Muñoz. I’m a physics engineer and a data science student from Mexico City. 
+Hi there, I’m Ana Muñoz. I’m a physics engineer and a master's data science student from Mexico City. 
 
 <p align="center">
 <img src="./images/fis.png" width="450" height="300" />
