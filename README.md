@@ -8,7 +8,7 @@ Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/b
 
 * 📫 How to reach me: ana.clavius@gmail.com
 
-On this portfolio currently you can find 5 projects:
+On this portfolio currently you can find 6 projects:
 
 ## [Project 1 – Crop Remote Sensing:](https://github.com/Monfiz/Anas_crop_remote_sensing)
 
@@ -32,7 +32,15 @@ collaboration with the green spin company.
 <img src="./images/fields.png" width="500" height="300" />
 </p>
 
-## [Project 2 – Music Data Analysis:](https://github.com/Monfiz/Music_Data_Analysis )
+## [Project 2 – Brain Tumor Detection:](https://github.com/mig-calval/brain-tumor-detection)
+In this Project we made a CNN capable of classifying 3 kinds of brain tumors. We arrived at 
+really good accuracies for the 3 classes, from 85% to 99%. Additionally, we developed a CNN to mask the area of the tumor on the images.
+
+<p align="center">
+<img src="./images/brain.png" width="500" height="300" />
+</p>
+
+## [Project 3 – Music Data Analysis:](https://github.com/Monfiz/Music_Data_Analysis )
 We were curious about
 what makes a song a “great song”. To answer this question we worked with two
 datasets. The first one is a Spotify database that we found in Kaggle which contains
@@ -50,14 +58,14 @@ Spotify in comparison to the top 500.
 </p>
 
 
-## [Project 3 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
+## [Project 4 – Movie Clustering and Movie Revenue Prediction:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_1)
 This project is subdivided into two smaller ones, the first is an **unsupervised machine learning algorithm** that makes **clusters** of movies to make recommendations that are similar to an specific movie. The second one is a predictor of how much revenue a movie will make. For this second problem I use several models like **nearest neighbor**, **decision tree**, **random forest**, **linear regression** and more. The code is built in Python.
  
 <p align="center">
 <img src="./images/variables.png" width="500" height="300" />
 </p>
 
-## [Project 4 - Hotel Cancellations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
+## [Project 5 - Hotel Cancellations Predictor:]( https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_2)
 
 On this project I make use of **machine learning models** such as **linear regression** with **lasso** and **random forest** to make a prediction if a hotel reservation is going to be canceled or not. The code is built in R. 
 
@@ -65,7 +73,7 @@ On this project I make use of **machine learning models** such as **linear regre
 <img src="./images/lasso.png" width="600" height="350" />
 </p>
 
-## [Project 5 – Analysis of coding and non-coding DNA:](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_3)
+## [Project 6 – Analysis of coding and non-coding DNA:](https://github.com/Monfiz/Alex_Portfolio/tree/main/Project_3)
 
 On this project I apply the [multifractal theory]( https://en.wikipedia.org/wiki/Multifractal_system#:~:text=A%20multifractal%20system%20is%20a,systems%20are%20common%20in%20nature.) to make an analysis of the complexity of the coding and [non-coding DNA]( https://en.wikipedia.org/wiki/Non-coding_DNA#:~:text=Non-coding%20DNA%20sequences%20are,do%20not%20encode%20protein%20sequences.&text=Other%20functions%20of%20non-coding,DNA%20replication%2C%20centromeres%20and%20telomeres.). But first, I justify the use of this theory by showing that the DNA presents a multifractal structure. The code is built in Python. Here I show my maths and coding skills applied to solve a specific problem, in this case a bioinformatics one.   
 
