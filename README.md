@@ -2,7 +2,7 @@
 
 Hi, my name is Ana Muñoz. Welcome to my public portfolio, where I share my data science skills.
 
-I’m a physics engineer and a data science masters student at [ITAM](https://en.wikipedia.org/wiki/Instituto_Tecnológico_Autónomo_de_México). I have a deep interest in science and the understanding of the world, and also shearing that knowledge. More about me and my interests [here](https://github.com/Monfiz/Alex_Portfolio/blob/main/About_alex.md).  
+I’m a physics engineer and a data science masters student at [ITAM](https://en.wikipedia.org/wiki/Instituto_Tecnológico_Autónomo_de_México). I have a deep interest in science and the understanding of the world, and also shearing that knowledge. 
 
 Here you can find my CV in [Spanish]( https://github.com/Monfiz/Alex_Portfolio/blob/main/Ana_Mu%C3%B1oz_CV.pdf) and in [English](https://github.com/Monfiz/Alex_Portfolio/blob/main/Ana_Munoz_CV.pdf) where you can see mostly my academic career and associative life. 
 
